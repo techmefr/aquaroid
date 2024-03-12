@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+}
+canvas {
+  margin: auto;
+  background-image: url(./src/craftpix-561109-free-underwater-world-parallax-game-backgrounds/PNG/2_game_background/2_game_background.png);
+}
